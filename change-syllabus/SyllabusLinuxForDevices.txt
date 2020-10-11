@@ -1,0 +1,214 @@
+                                	Annexure `CD  -  01'
+                           			
+                         FORMAT FOR COURSE CURRICULUM
+
+
+--------------------------------------------------------------------------------
+L
+--------------------------------------------------------------------------------
+T
+--------------------------------------------------------------------------------
+P/S
+--------------------------------------------------------------------------------
+SW/FW
+--------------------------------------------------------------------------------
+TOTAL CREDIT UNITS 
+--------------------------------------------------------------------------------
+3
+--------------------------------------------------------------------------------
+-
+--------------------------------------------------------------------------------
+2
+--------------------------------------------------------------------------------
+-
+--------------------------------------------------------------------------------
+4
+Course Title: Linux for Devices				
+Credit Units:
+									
+Course Level:				
+Course Code:	
+
+Course Objectives:
+After finishing this course student will be able to get understand the Linux Basics. This course explores the basic characteristics of Linux Networking. It also helps in learning about Linux Shell, File Structure and Network Administration Services. Finally, it gives overview about the Linux Security Techniques
+
+Pre-requisites: 
+Knowledge of Networking and Operating System
+
+Course Contents/Syllabus:
+
+                                 Weightage (%)
+Module I Linux Basics
+15%
+Descriptors/Topics 
+--------------------------------------------------------------------------------
+Introduction to Linux, File System of the Linux, General usage of Linux kernel & basic commands, Linux users and group, Permissions for file, directory and users, Searching a file & directory, zipping and unzipping concepts
+
+--------------------------------------------------------------------------------
+
+Module II Linux Networking
+15%
+Descriptors/Topics 
+--------------------------------------------------------------------------------
+Introduction to Networking in Linux, Network basics & tools, File transfer protocol in Linux, Network file system, Domain Naming Services, Dynamic hosting configuration Protocol & Network information Services.
+
+--------------------------------------------------------------------------------
+
+Module III The Linux Shell and File Structure
+20%
+Descriptors/Topics 
+--------------------------------------------------------------------------------
+Using The Shell, Moving Around the Filesystem, Working around the Text Files, Managing Running Processes, Writing Simple Shell Scripts, Linux Files, Directories, Archives
+
+
+--------------------------------------------------------------------------------
+
+Module IV Network Administration Services
+20%
+Descriptors/Topics 
+--------------------------------------------------------------------------------
+Managing User Accounts, Managing Disks and Filesystems, Understanding Server Administration, Administering TCP/IP Networks, Starting and Stopping Services, Configuring an NFS File Server, Distributed Network File Systems
+
+--------------------------------------------------------------------------------
+
+Module V Linux Application : Device Drivers
+15%
+Descriptors/Topics 
+--------------------------------------------------------------------------------
+Introduction & Character device drivers, Hardware access mechanisms, Interrupts, Time keeping, delays and deferred work, Concurrency, USB drivers
+--------------------------------------------------------------------------------
+
+Module VI Open Industrial Linux
+
+Descriptors/Topics 
+Linux for the Industry 4.0 Era, OPENIL and its advantages, Features of OPENIL, Study of Docker concepts: Installation on Linux, defining containers and Images and there usage.
+15%
+
+
+Student Learning Outcomes: At the end of the course, the students will be able to
+   1. --------------------------------------------------------------------------------
+      Perform the basic operations for Linux.
+   2. --------------------------------------------------------------------------------
+      Execute the shell scripts on Linux.
+   3. --------------------------------------------------------------------------------
+      Devise the network administration services
+   4. --------------------------------------------------------------------------------
+      Compare the various Linux security techniques.
+   5. --------------------------------------------------------------------------------
+      Implement the Docker in Linux
+
+
+Pedagogy for Course Delivery:
+
+The class will be taught using theory and case studies of latest processors. Apart from assigning the case studies, the course instructor will cover the quantitative approach for classification of modern processors.
+--------------------------------------------------------------------------------
+      
+--------------------------------------------------------------------------------
+      
+Lab/ Practical details, if applicable:
+
+	List of Experiments:
+
+   1.    Installation of Unix/Linux operating system. 
+   2.    Study of logging/logout details. 
+   3.    Study of Unix/Linux general purpose utility command list obtained from (man, who, cat, cd, cp, ps, ls, mv, rm, mkdir, rmdir, echo, more, date, time, kill, history, chmod, chown, finger, pwd, cal, logout, shutdown) commands.
+   4.    Study of vi editor.( http://www.tutorialspoint.com/unix/pdf/unix-vi-editor.pdf)
+   5.    Study of Bash shell, Bourne shell and C shell in Unix/Linux operating system. 
+   6.    Study of Unix/Linux file system (tree structure). 
+   7.    Study of .bashrc, /etc/bashrc and Environment variables
+   8.    Write a shell script program to display list of user currently logged in. 
+   9.    Write a shell script program to display "HELLO WORLD". 
+   10.    Write a shell script program to develop a scientific calculator. 
+   11.    Write a shell Script program to check whether the given number is even or odd. 
+   12.    Write a shell script Program to search whether element is present is in the list or not.
+   13.    Write a shell script program to check whether given file is a directory or not. 
+   14.    Write a shell script program to count number of files in a Directory. 
+   15.    Write a shell script program to copy contents of one file to another. 
+   16.    Create directory, write contents on that and Copy to a suitable location in your home directory. 
+   17.    Use a pipeline and command substitution to set the length of a line in file to a variable. 
+   18.    Write a program using sed command to print duplicated lines of Input.
+   19.    Study the process of writing a device driver, or a kernel module.( https://www.apriorit.com/dev-blog/195-simple-driver-for-linux-os)
+   20.    Study the working of docker on Linux operating system
+
+Assessment/ Examination Scheme:		
+	
+Theory L/T (%)
+Lab/Practical/Studio (%)
+Total
+75%
+25%
+100
+
+Theory Assessment (L&T):
+--------------------------------------------------------------------------------
+Continuous Assessment/Internal Assessment
+--------------------------------------------------------------------------------
+  End Term Examination
+--------------------------------------------------------------------------------
+ Components (Drop down)
+--------------------------------------------------------------------------------
+      Attendance
+--------------------------------------------------------------------------------
+      Class Test
+--------------------------------------------------------------------------------
+      Assignment
+--------------------------------------------------------------------------------
+      Case Study
+
+--------------------------------------------------------------------------------
+ Weightage (%)
+--------------------------------------------------------------------------------
+5
+--------------------------------------------------------------------------------
+10
+--------------------------------------------------------------------------------
+7
+--------------------------------------------------------------------------------
+8
+--------------------------------------------------------------------------------
+70
+
+Lab Assessment
+
+--------------------------------------------------------------------------------
+Continuous Assessment/Internal Assessment
+--------------------------------------------------------------------------------
+  End Term Examination
+--------------------------------------------------------------------------------
+ Components (Drop down)
+--------------------------------------------------------------------------------
+      Attendance
+--------------------------------------------------------------------------------
+      Lab Record
+--------------------------------------------------------------------------------
+      Performance
+--------------------------------------------------------------------------------
+      viva
+
+--------------------------------------------------------------------------------
+ Weightage (%)
+--------------------------------------------------------------------------------
+5
+--------------------------------------------------------------------------------
+10
+--------------------------------------------------------------------------------
+10
+--------------------------------------------------------------------------------
+5
+--------------------------------------------------------------------------------
+70
+
+
+Text Reading:
+      oo       Linux Bible, The comprehensive Tutorial Resource. 8th Edition
+      oo       Linux, The complete reference. 6th Edition
+      oo       Linux Programming and Scripting Video Course. NPTEL.
+
+References:
+   oo --------------------------------------------------------------------------------
+      https://www.openil.org/
+   oo --------------------------------------------------------------------------------
+      https://docker-curriculum.com/
+
+Additional Reading:
+Any other Study Material:
