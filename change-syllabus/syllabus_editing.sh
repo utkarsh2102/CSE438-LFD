@@ -2,6 +2,9 @@
 
 # Written by Utkarsh Gupta <utkarsh@debian.org>
 
+# to enable debugging, uncomment the following line.
+# set -ex
+
 # for installing docx2txt on Debian-based systems.
 # if [ $(dpkg-query -W -f='${Status}' docx2txt 2>/dev/null | grep -c "ok installed") -eq 0 ];
 # then
