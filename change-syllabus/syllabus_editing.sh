@@ -2,6 +2,12 @@
 
 # Written by Utkarsh Gupta <utkarsh@debian.org>
 
+# for installing docx2txt on Debian-based systems.
+# if [ $(dpkg-query -W -f='${Status}' docx2txt 2>/dev/null | grep -c "ok installed") -eq 0 ];
+# then
+#   sudo apt install docx2txt;
+# fi
+
 # take the .docx file as a commond-line arguement.
 docxFile=$1
 
