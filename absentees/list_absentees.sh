@@ -18,6 +18,9 @@
 #
 # 8<---8<---8<---8<---8<---8<---8<---8<---8<---8<---8<---8<---8<---8<---8<
 
+# enable this for debugging
+# set -ex
+
 # remove the first two lines and sort the presentees' names in order
 sed '1,2d' meetingAttendanceList.csv > names_presentees.csv
 cat names_presentees.csv | tr "\t" "," | awk -F',' '{ print $1 }' | uniq | sort > sorted_presentees.csv
