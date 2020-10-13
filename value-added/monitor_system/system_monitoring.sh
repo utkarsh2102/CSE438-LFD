@@ -1,5 +1,17 @@
 #!/bin/zsh
 
+# Written by Utkarsh Gupta <utkarsh@debian.org>
+
+# Instructions to run:
+# Just the run the script as is without any args.
+# ./system_monitoring.sh
+#
+# For example:
+# $ ./system_monitoring.sh
+
+# uncomment for debugging
+# set -ex
+
 if [[ $# -eq 0 ]]
 then
 {
