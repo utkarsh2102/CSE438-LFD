@@ -10,6 +10,9 @@
 # For example:
 # $ ./count_files.sh /etc/grub.d
 
+# uncomment for debugging
+# set -ex
+
 if [ -d "$1" ]
 then
   ls $1 | wc -l
