@@ -3,6 +3,7 @@
 # Written by Utkarsh Gupta <utkarsh@debian.org>
 
 # Instructions to run:
+#
 # Just the run the script as is without any args.
 # ./system_monitoring.sh
 #
